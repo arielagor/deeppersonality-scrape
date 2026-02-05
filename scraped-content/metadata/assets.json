@@ -1,0 +1,33 @@
+{
+  "scrapedAt": "2026-02-05T20:25:38.393Z",
+  "baseUrl": "https://deeppersonality.app",
+  "css": [
+    "https://deeppersonality.app/_next/static/css/2ba08ca567d6b9f2.css?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+    "https://deeppersonality.app/_next/static/css/8f3c3cbe4ca7e664.css?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ"
+  ],
+  "js": [
+    "https://deeppersonality.app/_next/static/chunks/4bd1b696-b4cfe0cb6f9a6373.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+    "https://deeppersonality.app/_next/static/chunks/2669-89d8ec78d381112a.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+    "https://deeppersonality.app/_next/static/chunks/main-app-3be28c253cb7ee44.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+    "https://deeppersonality.app/_next/static/chunks/2244-d8b1292a3d49089c.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+    "https://deeppersonality.app/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+    "https://deeppersonality.app/_vercel/speed-insights/script.js",
+    "https://deeppersonality.app/_vercel/insights/script.js",
+    "https://us-assets.i.posthog.com/static/web-vitals.js?v=1.336.1",
+    "https://us-assets.i.posthog.com/static/surveys.js?v=1.336.1",
+    "https://us-assets.i.posthog.com/static/dead-clicks-autocapture.js?v=1.336.1",
+    "https://us-assets.i.posthog.com/static/posthog-recorder.js?v=1.336.1",
+    "https://us-assets.i.posthog.com/array/phc_aWZSi5wbZ53BhzXulMs6BZDSiCSUO3Vc5xLgQPug8CI/config.js",
+    "https://us-assets.i.posthog.com/static/exception-autocapture.js?v=1.336.1",
+    "https://deeppersonality.app/_next/static/chunks/webpack-aa56c83ab8db9fd7.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+    "https://deeppersonality.app/_next/static/chunks/9da6db1e-79d38fb7e4634101.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+    "https://deeppersonality.app/_next/static/chunks/8511-e244d87ef3f1b467.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+    "https://deeppersonality.app/_next/static/chunks/app/layout-d355e15340d62eb2.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+    "https://deeppersonality.app/_next/static/chunks/app/not-found-4cb7d38a0a7915c5.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ"
+  ],
+  "images": [
+    "https://deeppersonality.app/icon.svg?78cd167bc68d61c4"
+  ],
+  "fonts": [],
+  "other": []
+}

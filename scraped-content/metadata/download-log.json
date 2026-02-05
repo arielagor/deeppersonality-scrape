@@ -1,0 +1,137 @@
+{
+  "completedAt": "2026-02-05T20:26:16.188Z",
+  "results": {
+    "downloaded": 6,
+    "skipped": 0,
+    "failed": 15,
+    "totalSize": 372103
+  },
+  "assets": [
+    {
+      "url": "https://deeppersonality.app/_next/static/css/2ba08ca567d6b9f2.css?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://deeppersonality.app/_next/static/css/8f3c3cbe4ca7e664.css?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://deeppersonality.app/_next/static/chunks/4bd1b696-b4cfe0cb6f9a6373.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://deeppersonality.app/_next/static/chunks/2669-89d8ec78d381112a.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://deeppersonality.app/_next/static/chunks/main-app-3be28c253cb7ee44.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://deeppersonality.app/_next/static/chunks/2244-d8b1292a3d49089c.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://deeppersonality.app/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://deeppersonality.app/_vercel/speed-insights/script.js",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://deeppersonality.app/_vercel/insights/script.js",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://us-assets.i.posthog.com/static/web-vitals.js?v=1.336.1",
+      "path": "C:\\Users\\ariel\\Documents\\GitHub\\deeppersonality-scrape\\scraped-content\\assets\\js\\web-vitals.js",
+      "status": "downloaded",
+      "size": 6599
+    },
+    {
+      "url": "https://us-assets.i.posthog.com/static/surveys.js?v=1.336.1",
+      "path": "C:\\Users\\ariel\\Documents\\GitHub\\deeppersonality-scrape\\scraped-content\\assets\\js\\surveys.js",
+      "status": "downloaded",
+      "size": 88854
+    },
+    {
+      "url": "https://us-assets.i.posthog.com/static/dead-clicks-autocapture.js?v=1.336.1",
+      "path": "C:\\Users\\ariel\\Documents\\GitHub\\deeppersonality-scrape\\scraped-content\\assets\\js\\dead-clicks-autocapture.js",
+      "status": "downloaded",
+      "size": 13059
+    },
+    {
+      "url": "https://us-assets.i.posthog.com/static/posthog-recorder.js?v=1.336.1",
+      "path": "C:\\Users\\ariel\\Documents\\GitHub\\deeppersonality-scrape\\scraped-content\\assets\\js\\posthog-recorder.js",
+      "status": "downloaded",
+      "size": 250607
+    },
+    {
+      "url": "https://us-assets.i.posthog.com/array/phc_aWZSi5wbZ53BhzXulMs6BZDSiCSUO3Vc5xLgQPug8CI/config.js",
+      "path": "C:\\Users\\ariel\\Documents\\GitHub\\deeppersonality-scrape\\scraped-content\\assets\\js\\config.js",
+      "status": "downloaded",
+      "size": 1196
+    },
+    {
+      "url": "https://us-assets.i.posthog.com/static/exception-autocapture.js?v=1.336.1",
+      "path": "C:\\Users\\ariel\\Documents\\GitHub\\deeppersonality-scrape\\scraped-content\\assets\\js\\exception-autocapture.js",
+      "status": "downloaded",
+      "size": 11788
+    },
+    {
+      "url": "https://deeppersonality.app/_next/static/chunks/webpack-aa56c83ab8db9fd7.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://deeppersonality.app/_next/static/chunks/9da6db1e-79d38fb7e4634101.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://deeppersonality.app/_next/static/chunks/8511-e244d87ef3f1b467.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://deeppersonality.app/_next/static/chunks/app/layout-d355e15340d62eb2.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://deeppersonality.app/_next/static/chunks/app/not-found-4cb7d38a0a7915c5.js?dpl=dpl_GQuNs1UvRefasqXR6q8hf1JjovGJ",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    },
+    {
+      "url": "https://deeppersonality.app/icon.svg?78cd167bc68d61c4",
+      "path": null,
+      "status": "failed",
+      "error": "Request failed with status code 429"
+    }
+  ]
+}

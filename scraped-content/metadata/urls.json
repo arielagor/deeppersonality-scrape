@@ -1,0 +1,41 @@
+{
+  "scrapedAt": "2026-02-05T20:25:38.396Z",
+  "pages": [
+    {
+      "url": "/",
+      "filename": "index.html",
+      "requiresAuth": false,
+      "fullUrl": "https://deeppersonality.app/"
+    },
+    {
+      "url": "/privacy",
+      "filename": "privacy.html",
+      "requiresAuth": false,
+      "fullUrl": "https://deeppersonality.app/privacy"
+    },
+    {
+      "url": "/terms",
+      "filename": "terms.html",
+      "requiresAuth": false,
+      "fullUrl": "https://deeppersonality.app/terms"
+    },
+    {
+      "url": "/assessment",
+      "filename": "assessment.html",
+      "requiresAuth": true,
+      "fullUrl": "https://deeppersonality.app/assessment"
+    },
+    {
+      "url": "/results",
+      "filename": "results.html",
+      "requiresAuth": true,
+      "fullUrl": "https://deeppersonality.app/results"
+    },
+    {
+      "url": "/profile",
+      "filename": "profile.html",
+      "requiresAuth": true,
+      "fullUrl": "https://deeppersonality.app/profile"
+    }
+  ]
+}

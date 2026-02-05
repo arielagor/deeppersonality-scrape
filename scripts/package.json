@@ -1,0 +1,17 @@
+{
+  "name": "deeppersonality-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper for deeppersonality.app",
+  "main": "scrape.js",
+  "scripts": {
+    "scrape": "node scrape.js",
+    "download-assets": "node download-assets.js",
+    "all": "node scrape.js && node download-assets.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "axios": "^1.6.0",
+    "fs-extra": "^11.2.0"
+  }
+}
